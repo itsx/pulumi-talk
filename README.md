@@ -1,4 +1,4 @@
 # pulumi_talk
 Resources for Pulumi talk
 
-# AWS credentials
+# 1. AWS credentials
